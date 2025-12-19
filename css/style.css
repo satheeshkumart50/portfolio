@@ -185,6 +185,25 @@ p {
   gap: 18px;
 }
 
+.cert-list {
+  margin: 0.75rem 0 0;
+  padding-left: 1.1rem;
+  font-size: 0.85rem;
+  line-height: 1.6;
+  color: var(--text-muted, #a8b0c2);
+}
+
+.cert-list li {
+  margin-bottom: 0.3rem;
+}
+
+.cert-note {
+  font-style: italic;
+  font-size: 0.9rem;
+  color: #1b8a6d; /* softer contrast */
+  margin-top: 0.75rem;
+}
+
 .stat-card {
   background: var(--panel);
   border: 1px solid var(--border);
