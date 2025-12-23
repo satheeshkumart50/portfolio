@@ -1,5 +1,7 @@
 # Sathish Kumar | Portfolio
 
+🔗 https://satheeshkumart50.github.io/portfolio/
+
 Static, responsive portfolio for cloud-native architecture, backend/data engineering, and GenAI work. Built with HTML, CSS, and vanilla JavaScript—ready for GitHub Pages.
 
 ## Structure
