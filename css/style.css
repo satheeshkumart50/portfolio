@@ -200,7 +200,7 @@ p {
 .cert-note {
   font-style: italic;
   font-size: 0.9rem;
-  color: #1b8a6d; /* softer contrast */
+  color: #d4dcda; /* softer contrast */
   margin-top: 0.75rem;
 }
 
@@ -318,6 +318,7 @@ p {
 .tech-stack {
   color: var(--muted);
   font-size: 14px;
+  margin-top: 0.75rem;
 }
 
 .card-actions {

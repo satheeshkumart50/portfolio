@@ -16,10 +16,10 @@ Static, responsive portfolio for cloud-native architecture, backend/data enginee
 
 ## Deploy to GitHub Pages
 
-1. Create a GitHub repository named `<username>.github.io`.
+1. Create a GitHub repository named `portfolio`.
 2. Push this project to the `main` branch (root folder contains index.html).
 3. In GitHub, open **Settings → Pages** and select the `main` branch, `/ (root)` folder.
-4. Wait for Pages to build; your site will be live at `https://<username>.github.io`.
+4. Wait for Pages to build; your site will be live at `https://satheeshkumart50.github.io/portfolio/`.
 
 ## Customization tips
 
